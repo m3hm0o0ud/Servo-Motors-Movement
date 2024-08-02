@@ -1,5 +1,3 @@
-
-```markdown
 # Arduino Servo Motors Control Project
 
 This project demonstrates how to control six servo motors using an Arduino UNO board. The aim is to create a walking motion for a robot using the Servo library to precisely control the servo motors.
@@ -93,7 +91,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Image
 Here is an image showing the connections used in the project:
-![Project Connections](ddddddddddd.PNG)
-```
+![Project Connections](https://github.com/m3hm0o0ud/Servo-Motors-Movement/blob/main/servo.PNG)
 
-This version includes a more detailed project description, step-by-step instructions for setting up the circuit and code, and clearer formatting to improve readability.
+image showing servo running 
+![Project Connections](https://github.com/m3hm0o0ud/Servo-Motors-Movement/blob/main/servo-runing.PNG)
+
